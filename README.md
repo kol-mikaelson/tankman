@@ -4,7 +4,7 @@
 Tank Game is a simple 3D game built using OpenGL, GLFW, and GLEW. The game features a hero tank that shoots bullets to destroy enemy tanks. The player wins by achieving a target score.
 
 ## Features
-- **Hero Tank**: Controlled by the player, capable of shooting bullets.
+- **Hero Tank**: Controlled by computer, capable of shooting bullets.
 - **Enemy Tanks**: Spawn periodically and move randomly.
 - **Collision Detection**: Bullets can destroy enemy tanks.
 - **Camera Views**: Switch between perspective and top-down views.
